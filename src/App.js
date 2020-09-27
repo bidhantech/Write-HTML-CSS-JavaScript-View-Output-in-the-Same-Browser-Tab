@@ -63,7 +63,7 @@ function App() {
       </div>
 
 
-      <span className="run" onClick={onRun}>VIEW OUTPUT</span>
+      <span className="view-output" onClick={onRun}>VIEW OUTPUT</span>
 
       <span className="heading-output" id="output">OUTPUT</span>
       <iframe srcDoc={SourceCode} title="Output" className="output" sandbox="allow-scripts" />
