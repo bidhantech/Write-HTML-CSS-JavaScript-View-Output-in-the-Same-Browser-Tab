@@ -2,12 +2,8 @@
 
 If you don't have 'node' installed in your computer, install node.
 Open the project folder in your computer terminal, then run the following commands
-
-
-## `npm install`
-
-
-## `npm start`
+#### `npm install`
+#### `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
