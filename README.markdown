@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36cdfb76-4f3e-4ca1-9e2d-501927b22e0e/deploy-status)](https://app.netlify.com/sites/write-html-javascript-css-demo/deploys)
+
+Demo Available Here: https://write-html-javascript-css-demo.netlify.app/
+
 # Steps to Set Up This Project in your computer
 
 If you don't have 'node' installed in your computer, install node.
